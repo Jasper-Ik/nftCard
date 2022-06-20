@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://jasper-ik.github.io/nftCard/nft.html)
+- Solution URL: [ solution URL here](https://github.com/Jasper-Ik/nftCard)
+- Live Site URL: [ live site URL here](https://jasper-ik.github.io/nftCard/nft.html)
 
 ## My process
 
