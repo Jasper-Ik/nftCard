@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100&family=Gentium+Plus:wght@700&family=Macondo&family=Montserrat+Alternates:wght@100&family=Montserrat:wght@200&family=Odibee+Sans&family=Outfit:wght@100;300;500;700;800&family=Rubik+Moonrocks&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit';
+    font-size: 80%;
+}
+P {
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'Outfit';
+    color:  hsl(215, 51%, 70%);
+}
+.container {
+    height: 100vh;
+    width: 100%;
+    min-width: 320px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(217, 54%, 11%);
+}
+.nft {
+    display: grid;
+    height: 82vh;
+    width: 300px;
+    padding: 15px ;
+    box-shadow: 0px 0px 10px hsl(215, 32%, 27%);
+    background-color: hsl(216, 50%, 16%);
+    text-align: left;
+    border-radius: 10px;
+    border: 1px solid hsl(217, 54%, 11%);
+}
+.connft {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+}
+img.equilibrium {
+
+    width: 260px;
+    border-radius: 7px;
+
+}
+img.icone {
+    width: 8px;
+    margin-right: 7px;
+}
+img.iconc {
+    width: 13px;
+    margin-left: 70px;
+    margin-right: 7px;
+}
+img.image {
+    width: 25px;
+    margin-right: 8px;
+    border: 1px solid  hsl(215, 51%, 70%);
+    border-radius: 50%;
+}
+h2 {
+    margin-top: 15px;
+    font-size: large;
+    margin-bottom: 10px;
+    font-weight: 600;
+    font-family: 'Outfit';
+    color: hsl(0, 0%, 100%);
+}
+p.f-eth {
+    line-height: 1.8rem;
+}
+p.eth {
+    margin-top: 10px;
+}
+span.crt {
+    color: hsl(0, 0%, 100%);
+    font-size: 14px;
+}
+span.eth {
+    color:  hsl(178, 100%, 50%);
+    font-size: 14px;
+    font-weight: 400;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin-top: 25px;
+    border-top: 1px solid  hsl(215, 32%, 27%);
+}
+.attribution  {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    text-decoration: none;
+    color: hsl(228, 45%, 44%);
+    font-size: 11px;
+}
+.attribution a {
+    text-decoration: none;
+    color: #777777;
+}
