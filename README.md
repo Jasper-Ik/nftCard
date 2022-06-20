@@ -100,13 +100,13 @@ e.g as uded in my solution for the overall layout for the container,
 ### Useful resources
 
 - [Mozilla fire fox resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout#grid_lines) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [CSS & HTML resource 2](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [CSS & HTML resource 2](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189) - This is an amazing article and book which helped me finally understand grid and css layout. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
 
-- Website - [Add your name here](https://github.com/Jasper-Ik)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Jasper-Ik)
+- Github - [Jasper-Ik(https://github.com/Jasper-Ik)
+- Frontend Mentor - [@Jasper-Ik](https://www.frontendmentor.io/profile/Jasper-Ik)
 - Twitter - [@J_sperIk](https://www.twitter.com/J_sperIk)
 
 
